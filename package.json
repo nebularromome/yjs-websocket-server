@@ -5,6 +5,7 @@
     "start": "y-websocket-server --port 1234"
   },
   "dependencies": {
-    "y-websocket": "^1.5.0"
+    "y-websocket": "^1.5.0",
+    "yjs": "^13.6.21"
   }
 }
