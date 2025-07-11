@@ -2,7 +2,7 @@
   "name": "yjs-websocket-server",
   "version": "1.0.0",
   "scripts": {
-    "start": "y-websocket-server --port 1234 --host 0.0.0.0"
+    "start": "y-websocket-server --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "y-websocket": "^1.5.0",
