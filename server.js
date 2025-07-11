@@ -1,4 +1,4 @@
-const { setupWSConnection } = require('@y/websocket-server')
+const { setupWSConnection } = require('y-websocket/dist/server.js')
 const http = require('http')
 const WebSocket = require('ws')
 
